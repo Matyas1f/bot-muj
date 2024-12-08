@@ -1,0 +1,49 @@
+{
+  "bot-account": {
+    "username": "Congovrablik", 
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "paskovpublic.aternos.me", 
+    "port": 19809,   
+    "version": "1.12.1"   
+  },
+
+  "position": {
+    "enabled": true,
+    "x": 9927,
+    "y": -63,
+    "z": -9957
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "I bell on pecek everday",
+        "I fucked vrablik and cong",
+        "I Like to Cerveny kuba",
+        "I like cunt empire"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 10
+  }
+}
